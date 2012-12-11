@@ -1,0 +1,10 @@
+CapSense
+========
+
+ firmware for the ATTiny20 for timer-based capacitive sensing.
+
+Building
+========
+
+ Can be compiled only with the official Atmel-Toolchain.
+
